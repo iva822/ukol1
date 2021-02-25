@@ -1,59 +1,58 @@
-
-
-body{
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    line-height: 1.5;
-    margin: 0;
-    padding: 1% 15%; 
-    background-color:lightgray;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 1% 15%;
+  background-color: lightgray;
 }
 img {
-    float: left;
-    width: 15%; 
-    margin-right: 50px;
-    border-radius: 10%;
-    overflow: hidden;
+  float: left;
+  width: 15%;
+  margin-right: 50px;
+  border-radius: 10%;
+  overflow: hidden;
 }
 .header {
-   margin: 0;
-    text-align: center; 
-   background: dimgray;
-   padding: 30px;
-   color: antiquewhite;
-
+  margin: 0;
+  text-align: center;
+  background: dimgray;
+  padding: 20px;
+  color: antiquewhite;
 }
 
-.footer{
-    text-align: center;
-    background:dimgray;
-    padding: 30px;
-    color: antiquewhite;
+.footer {
+  text-align: center;
+  background: dimgray;
+  padding: 40px;
+  color: antiquewhite;
 }
+
+.footer a {color: antiquewhite
+} 
 
 h3 {
-    margin: 15px 0px 5px 0px;
+  margin: 15px 0px 5px 0px;
 }
 
 h4 {
-    margin: 0px;
-    font-style: italic;
-    font-weight: normal;
+  margin: 0px;
+  font-style: italic;
+  font-weight: normal;
 }
 
 .kontakt {
-    line-height: 2.5;
-    overflow: auto;
-    padding: 20px 20px;
-    border-bottom-style:double;
+  line-height: 2.5;
+  overflow: auto;
+  padding: 20px 20px;
+  border-bottom-style: double;
 }
 
 .zamestnani {
-    padding: 20px 20px;
-    border-bottom-style:double;
+  padding: 20px 20px;
+  border-bottom-style: double;
 }
 
-
 .vzdelani {
-    padding: 20px 20px;
+  padding: 20px 20px 30px 20px;
 }
